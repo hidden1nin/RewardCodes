@@ -1,0 +1,13 @@
+name: RewardCodes
+main: me.bukkit.hidden1nin.RewardCodes.Main
+version: 1.0
+api-version: 1.8
+author: hidden1nin
+description: Simple rewards plugin
+commands:
+    code:
+      description: opens code menu
+      usage: /code <list>
+    codes:
+      description: opens code menu
+      usage: /codes <list>
